@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    border-collapse: collapse;
+}
+
+body{
+    width: 100%;
+    background-image: url("../IMG/fondo-regreso-escuela-dibujado-mano_23-2149031981.avif");
+    background-size: cover;
+}
+
+.cuadro{
+    display: block;
+    margin: 50px;
+    background-color: pink;
+    width: 400px;
+    padding-top: 50px;
+    padding-right: 80px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+    height: 200px;
+  width: 20%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 300px;
+}
+.notas{
+    text-align: center;
+   
+}
